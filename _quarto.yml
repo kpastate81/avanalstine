@@ -12,7 +12,7 @@ website:
 
 format:
   html:
-    theme: [sandstone, variables.scss]
+    theme: [sandstone, _variables.scss]
     css: styles.css
     toc: true
 
