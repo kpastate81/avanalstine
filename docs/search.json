@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Anna VanAlstine",
+    "title": "Home",
     "section": "",
-    "text": "Hello! I am a Graduate Research Assistant under the advisement of Dr. Matthew Kumjian at the Pennsylvania State University. My research focuses on the micro-physics of convective storm systems, using remote sensing data. I have a broad interest in the spacial features of weather systems and seek to conduct sound and interesting science using novel research methods with remote sensing data."
+    "text": "Hello! I am a Graduate Research Assistant under the advisement of Dr. Matthew Kumjian at the Pennsylvania State University. My research focuses on the micro-physics of convective storm systems using remote sensing data. I have a broad interest in the spacial features of weather systems and seek to conduct sound and interesting science using novel research methods on remote sensing data.\nOn this site I keep a list of my publications, presentations, and my resume."
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,19 @@
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "papers/index.html",
+    "href": "papers/index.html",
+    "title": "Anna VanAlstine",
+    "section": "",
+    "text": "Papers\n\n\n\n\nPapers\n\nClick “[PDF]” to download each paper.\n\n\n2022"
+  },
+  {
+    "objectID": "presentations/index.html",
+    "href": "presentations/index.html",
+    "title": "Anna VanAlstine",
+    "section": "",
+    "text": "Presentations\n\n\n\n\nPresentations\n\nAs lead/presenting author:\n\n2023\n\n\n\n\n2022\n\n\n\n“Analysis of Doppler Velocity in Three-Body Scattering Signatures for use in Hail Size Estimation”.\n\n\nRegular talk, American Meteorological Society’s 30th Conference on Severe Local Storms, Santa Fe, NM, 26 October 2022.\n\n\nSlides available at Here."
   }
 ]

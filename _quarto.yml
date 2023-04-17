@@ -1,15 +1,19 @@
 project:
   type: website
   output-dir: docs
+  resources: 
+    -resume.pdf
 
 website:
   title: "Anna VanAlstine"
   navbar:
     right:
       - href: index.qmd
-        text: Home
-      - about.qmd
-
+      #- about.qmd
+      - text: "Papers"
+        href: papers
+      - text: "Presentations"
+        href: presentations
 format:
   html:
     theme: [sandstone, _variables.scss]

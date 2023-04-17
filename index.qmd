@@ -1,6 +1,6 @@
 ---
-title: "Anna VanAlstine"
-image: IMG_9743.jpg
+title: "Home"
+image: IMG_6429.jpg
 about:
   template: trestles
   links:
@@ -10,7 +10,8 @@ about:
       icon: github
       url: "https://github.com/kpastate81"
     - text: Email
-    - text: CV
+      url: "mailto:aev5019@psu.edu"
+  #  - text: CV
       #url: "cv.pdf"
 comments: false
 ---
@@ -18,13 +19,14 @@ comments: false
 
 ## Bio
 
-Hello! I am a Graduate Research Assistant under the advisement of Dr. Matthew Kumjian at the Pennsylvania State University. My research focuses on the micro-physics of convective storm systems, using remote sensing data. I have a broad interest in the spacial features of weather systems and seek to conduct sound and interesting science using novel research methods with remote sensing data.
+Hello! I am a Graduate Research Assistant under the advisement of Dr. Matthew Kumjian at the Pennsylvania State University. My research focuses on the micro-physics of convective storm systems using remote sensing data. I have a broad interest in the spacial features of weather systems and seek to conduct sound and interesting science using novel research methods on remote sensing data.
 
-<!--On this site I keep a list of [my publications](papers), [presentations](presentations), and my CV.-->
+On this site I keep a list of [my publications](papers), [presentations](presentations), and [my resume](resume.pdf).
 
 <p></p>
 
 ## Selected Projects
 
 #### Publications
+
 :::
