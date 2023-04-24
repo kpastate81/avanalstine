@@ -10,6 +10,6 @@
     <p>
         <div><strong>“Analysis of Doppler Velocity in Three-Body Scattering Signatures for use in Hail Size Estimation”.</strong></div>
         <div>Regular talk, American Meteorological Society’s 30th Conference on Severe Local Storms, Santa Fe, NM, 26 October 2022.</div>
-        <div>Slides available at <a href="slides/SLS_ConferencePP.pdf">Here</a>.</p>
+        <div>Slides available at <a href="slides/SLS_ConferencePPvs_final.pdf">Here</a>.</p>
 </body>
 </html>
