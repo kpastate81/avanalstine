@@ -7,9 +7,9 @@
     <p>
         <div><strong>“Analysis of Doppler Velocity in Three-Body Scattering Signatures for use in Hail Size Estimation”.</strong></div>
         <div>Regular talk, American Meteorological Society’s 40th Conference on Radar, Minneapolis, MN, 31 August 2023.</div>
-        <div>Slides available at <a href="slides/RADAR_CONF_TBSS.pdf">Here</a>.</div>
+        <div>Slides available <a href="slides/RADAR_CONF_TBSS.pdf">Here</a>.</div>
     </p>
-    <p>
+     <p>
         <div><strong>“Relating Polarimetric Radar Measurements to QLCS Cold Pool Properties and Damage Potential”.</strong></div>
         <div>Poster, American Meteorological Society’s 40th Conference on Radar, Minneapolis, MN, 31 August 2023.</div>
         <div>Poster available <a href="slides/VanAlstine_RadarPoster2023.pdf">Here</a>.</div>
